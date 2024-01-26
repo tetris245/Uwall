@@ -82,7 +82,6 @@ var bcModSDK=function(){"use strict";const e="1.1.0";function o(e){alert("Mod ER
              } else {
                  Player.OnlineSharedSettings.Uwall = true;
                  ServerAccountUpdate.QueueData({ OnlineSharedSettings: Player.OnlineSharedSettings });
-
                  ChatRoomSendLocal(
                      "<p style='background-color:#5fbd7a'>Uwall protection enabled.</p>"
                         );
