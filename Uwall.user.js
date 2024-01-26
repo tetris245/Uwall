@@ -71,21 +71,21 @@ var bcModSDK=function(){"use strict";const e="1.1.0";function o(e){alert("Mod ER
 
         CommandCombine([{
         Tag: 'uwall',
-        Description: "toggles protection from most ULTRAbc commands with target",
+        Description: "toggles protection from many ULTRAbc commands with target",
         Action: (args) => {
              if (Player.OnlineSharedSettings.Uwall == true) {
                  Player.OnlineSharedSettings.Uwall = false;
                  ServerAccountUpdate.QueueData({ OnlineSharedSettings: Player.OnlineSharedSettings });
                  ChatRoomSendLocal(
                      "<p style='background-color:#5fbd7a'>Uwall protection disabled.</p>"
-                        );
+                );
              } else {
                  Player.OnlineSharedSettings.Uwall = true;
                  ServerAccountUpdate.QueueData({ OnlineSharedSettings: Player.OnlineSharedSettings });
                  ChatRoomSendLocal(
                      "<p style='background-color:#5fbd7a'>Uwall protection enabled.</p>"
-                        );
-                    }
+                );
+            }
         }
     }])
 
