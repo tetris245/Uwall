@@ -19,3 +19,11 @@ Thanks to Sidsel for permission to use some BCE/FBC code!
 Uwall link for TamperMonkey: https://tetris245.github.io/Uwall.user.js
 
 Uwall bookmark: https://tetris245.github.io/Uwallbookmark.js
+
+# Related ULTRAbc commands
+
+clothes - hint - itemcolor - lock - naked - outfit load1 - outfit load2 - outfit load3 - pet - 
+
+pose2 - randomize - restrain - safeworditem - sleep - spin - totalrelease - underwear -
+
+unlock - untie - wrobe
