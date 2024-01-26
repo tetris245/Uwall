@@ -51,8 +51,8 @@ var bcModSDK=function(){"use strict";const e="1.1.0";function o(e){alert("Mod ER
         await sleep(5000);
 
         if (Player.OnlineSharedSettings.Uwall == undefined) {
-                 Player.OnlineSharedSettings.Uwall = false;
-                 ServerAccountUpdate.QueueData({ OnlineSharedSettings: Player.OnlineSharedSettings });
+            Player.OnlineSharedSettings.Uwall = false;
+            ServerAccountUpdate.QueueData({ OnlineSharedSettings: Player.OnlineSharedSettings });
         }
 
         //Section under GPLv3 license
