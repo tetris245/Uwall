@@ -24,6 +24,6 @@ Uwall bookmark: https://tetris245.github.io/Uwallbookmark.js
 
 clothes - hint - itemcolor - lock - naked - outfit load1 - outfit load2 - outfit load3 - pet - 
 
-pose2 - randomize - restrain - safeworditem - sleep - solidity - spin - totalrelease
+pose2 - randomize - restrain - safeworditem - sleep - solidity - spin - totalrelease -
 
 underwear - unlock - untie - wrobe
