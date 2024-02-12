@@ -8,7 +8,7 @@ Can be used without need to have also ULTRAbc.
 
 It's a toggle command /uwall to enable or disable the protection.
 
-By default, the protection is disabled.
+By default, the protection is enabled (since version 1.1)
 
 When enabled, ULTRAbc will detect it when some commands are targetting you. 
 The commands will not be executed and the command user will be informed about that.
