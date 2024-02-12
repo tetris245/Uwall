@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name Uwall
 // @namespace https://www.bondageprojects.com/
-// @version 1.0
+// @version 1.1
 // @description Shield to protect you from UBC commands
 // @author Nemesea
 // @match https://bondageprojects.elementfx.com/*
