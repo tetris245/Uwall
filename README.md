@@ -2,7 +2,7 @@
 
 Ultra Wall by Nemesea - Add-on for Ben987's BondageClub game
 
-Note: If you use the FBC mod, don't use this stand-alone version of Uwall, but enable/disable Uwall in FBC settings.
+**Note: If you use the FBC mod, don't use this stand-alone version of Uwall, but enable/disable Uwall in FBC settings.**
 
 A very simple mod to protect you from trolls abusing ULTRAbc commands with target.
 
