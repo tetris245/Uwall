@@ -32,7 +32,7 @@ underwear - unlock - untie - wrobe
 
 Also protected by Uwall: the green UBC buttons in the wardrobe (Export/Import)
 
-**## How to disable the Uwall protection?**
+# How to disable the Uwall protection?
 
 **If you are an UBC user and want to fully enjoy all the UBC features, you need to disable Uwall, at least when you play with friends.**
 
