@@ -12,8 +12,9 @@ It's a toggle command /uwall to enable or disable the protection.
 
 By default, the protection is enabled (since version 1.1)
 
-When enabled, ULTRAbc will detect it when some commands are targetting you. 
-The commands will not be executed and the command user will be informed about that.
+When enabled, ULTRAbc will detect it when some commands are targetting you.
+
+If you are not on the target's Ulist, the commands will not be executed and the command user will be informed about that.
 No any change or message will be sent to the target screen.
 
 Thanks to Sidsel for permission to use some BCE/FBC code!
