@@ -24,11 +24,11 @@ Uwall bookmark: https://tetris245.github.io/Uwallbookmark.js
 
 # Related ULTRAbc commands
 
-clothes - hint - itemcolor1 - lock - naked - outfit (all load and save optiont) 
+clothes - hint - invisible - itemcolor1 - lock - naked - outfit (all load and save options) -
 
-pet - pose2 - randomize - restrain - safeworditem - sleep - solidity - spin - totalrelease -
+pet - pose2 - randomize - restrain - safeworditem - sleep - solidity - spin - totalrelease - 
 
-underwear - unlock - untie - wrobe
+underwear - unlock - untie - visible - wrobe
 
 Also protected by Uwall: the green UBC buttons in the wardrobe (Export/Import)
 
