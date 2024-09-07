@@ -31,7 +31,9 @@ pet - pose2 - randomize - restrain - safeworditem - sleep - solidity - spin - to
 
 underwear - unlock - untie - visible - wrobe
 
-Also protected by Uwall: the green UBC buttons in the wardrobe (Export/Import)
+Also protected by Uwall: 
+- the green UBC buttons in the wardrobe (Export/Import)
+- a specific feature in the unrestrict total mode
 
 # How to disable the Uwall protection?
 
