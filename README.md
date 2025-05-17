@@ -2,7 +2,7 @@
 
 Ultra Wall by Nemesea - Add-on for Ben987's BondageClub game
 
-**Note: If you use the FBC/WCE mod, don't use this stand-alone version of Uwall, but enable/disable Uwall in FBC/WCE settings.**
+**Note: If you use the WCE mod, don't use this stand-alone version of Uwall, but enable/disable Uwall in WCE settings.**
 
 A very simple mod to protect you from trolls abusing ULTRAbc commands with target.
 
@@ -39,6 +39,6 @@ Also protected by Uwall:
 
 **If you are an UBC user and want to fully enjoy all the UBC features, you need to disable Uwall, at least when you play with friends.**
 
-**If you use the FBC mod, you need to unselect the case in page 2 of Immersion Settings**
+**If you use the WCE mod, you need to unselect the case in page 2 of Immersion Settings**
 
-**If you don't use FBC, but only the Uwall mod, you need to use the toggle /uwall command**
+**If you don't use WCE, but only the Uwall mod, you need to use the toggle /uwall command**
